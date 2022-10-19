@@ -1,4 +1,4 @@
-package design.ex01;
+package design.ex02_proxy;
 
 public class DoorMan {
 	public void 쫒아내(Animal a) {

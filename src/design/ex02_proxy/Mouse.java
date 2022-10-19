@@ -1,4 +1,4 @@
-package design.ex01;
+package design.ex02_proxy;
 
 public class Mouse extends Animal{
 	private String name = "쥐";
